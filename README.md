@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá, eu sou o Jo! 👋
 
-<!--
-**Josousa20/Josousa20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛡️ Sobre Mim
+Sou um desenvolvedor focado em **Python** com o objetivo de me especializar em **Cybersecurity**. Acredito que a segurança digital começa na base, por isso me dedico a criar códigos organizados, seguros e eficientes.
 
-Here are some ideas to get you started:
+### 🎯 Objetivos Profissionais
+Meu foco atual é dominar a automação de processos de segurança e análise de vulnerabilidades. Estou construindo meu portfólio para atuar como Analista de Cybersecurity, unindo lógica de programação com defesa de dados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Stacks & Tecnologias
+Aqui estão as ferramentas que utilizo no meu dia a dia de estudos e desenvolvimento:
+
+- **Linguagens:** ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+- **Versionamento:** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+- **Editor:** ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 🎮 Gostos & Personalidade
+- **Músicas Pesadas:** Fã da energia do **Slipknot**.
+- **Grunge:** Curto muito o estilo e a profundidade de músicas como **Black (Pearl Jam)**.
+- **Estratégia:** Gosto de simuladores de gerenciamento onde a análise de riscos e margem de lucro são fundamentais.
+
+### 📈 Estatísticas
+![Estatísticas do Jo](https://github-readme-stats.vercel.app/api?username=Josousa20&show_icons=true&theme=dracula)
