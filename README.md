@@ -16,4 +16,4 @@ Aqui estão as ferramentas que utilizo no meu dia a dia de estudos e desenvolvim
 ----
 
 ### 📈 Estatísticas
-![Minhas estatísticas](https://github-readme-stats.vercel.app/api?username=Josousa20&show_icons=true&theme=dracula)
+![Minhas estatísticas](https://github-readme-stats.vercel.app/api?username=Josousa20&show_icons=true&theme=dracula&v=1)
